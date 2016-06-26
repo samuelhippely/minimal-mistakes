@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+title                    : "Samuel Hippely"
+title_separator          : ""
+name                     : "Samuel Hippely"
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Samuel Hippely"
+  avatar           : "https://lh3.googleusercontent.com/-FDvGQUHrML4/V10Y2o0CSkI/AAAAAAAAAJA/eONTumAEXX8-5xfC4y_9rxcEoJAzkD9kACKgB/w140-h140-p/FullSizeRender.jpg"
+  bio              : "Finance major and Marketing minor at the University of West Florida."
+  location         : "Pensacola, Fl"
+  email            : samhippely@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -80,7 +80,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : /samuel-hippely-7b7a3668
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
