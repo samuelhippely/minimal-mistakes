@@ -2,7 +2,7 @@
  main:
   - title: "About"
     url: https://www.samuelhippely.com/about
-  - title: "Published Articles"
+  - title: "Articles"
     url: https://www.samuelhippely.com/publishedarticles
   - title: "Projects"
     url: https://www.samuelhippely.com/projects
